@@ -1,5 +1,5 @@
 #程序文件Pex19_1.py
-# this is a test of git.
+# this is a test of git
 from sklearn import datasets, svm, metrics
 from sklearn.model_selection import GridSearchCV
 import numpy as np
