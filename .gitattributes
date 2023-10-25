@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+2023test3/Total.csv filter=lfs diff=lfs merge=lfs -text
+2023test3/connected.csv filter=lfs diff=lfs merge=lfs -text
+2023test3/corrected.csv filter=lfs diff=lfs merge=lfs -text
