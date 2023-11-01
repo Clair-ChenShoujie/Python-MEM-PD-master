@@ -25,3 +25,5 @@ bound = (x1,x2)
 res = linprog(c, A, b, Aeq, beq, bound)
 print("目标函数的最小值：", res.fun)
 print("最优解为：", res.x)
+
+# there is some changes of the codes
